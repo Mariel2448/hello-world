@@ -1,7 +1,7 @@
 Submission for CodePath
 ## Hello From Mariel
 ### App Walk-though
-<img src="https://imgur.com/qt1MLZF" width=200><br>
+<img src="https://i.imgur.com/ZapR81F.gif" width=200><br>
 
 
 ### Required User Stories
